@@ -15,3 +15,4 @@ Node.JS
 
 
 You can see the final project  [Here](https://r-acedmy-.herokuapp.com/ "Here")  
+ Go the Admin panel   [Here](https://r-acedmy-.herokuapp.com/adminwsq "Here")
